@@ -15,7 +15,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build Lean Lede
+    name: Build OpenWrt firmware
 
     runs-on: ubuntu-latest
 
